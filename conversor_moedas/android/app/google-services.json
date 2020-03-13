@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093286879713",
+    "firebase_url": "https://conversormoedas-92e49.firebaseio.com",
+    "project_id": "conversormoedas-92e49",
+    "storage_bucket": "conversormoedas-92e49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093286879713:android:9d64e23a9855402fb3f2a0",
+        "android_client_info": {
+          "package_name": "com.example.conversor_moedas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093286879713-kq4jq2j05sqgaah7rtl5n09gaffiofs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_OhBbLb8rwPFZx4lNhdRrGo5dEqySKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093286879713-kq4jq2j05sqgaah7rtl5n09gaffiofs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
